@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with YouTube Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This project is developed using RapidAPI(youtube) and Reactjs to mimic the youtube functionalities.
 
 In the project directory, you can run:
 
